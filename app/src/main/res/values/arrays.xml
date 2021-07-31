@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_attraction_names">
+        <item>The Red Fort</item>
+        <item>Qutub Minar</item>
+        <item>Gurdwara Bangla Saheb</item>
+        <item>The Lotus Temple</item>
+        <item>Jama Masjid</item>
+        <item>India Gate</item>
+    </string-array>
+
+    <string-array name="list_attraction_addresses">
+        <item>Netaji Subhash Marg, Chandni Chowk, New Delhi</item>
+        <item>Mehrauli, New Delhi, Delhi 110030</item>
+        <item>Ashoka Road, Hanuman Road Area, Connaught Place, New Delhi</item>
+        <item>Lotus Temple Road, Shambhu Dayal Bagh, Bahapur, New Delhi</item>
+        <item>Sansad Marg, Connaught Place, New Delhi</item>
+        <item>Rajpath, India Gate, New Delhi </item>
+    </string-array>
+
+    <string-array name="list_attraction_opening_hours">
+        <item>Opening hours: 8:00-18:00</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours </item>
+        <item>Opening hours: 9:00-17:00</item>
+        <item>Opening hours: 7:00-22:00</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_attraction_images">
+        <item>@drawable/red_fort</item>
+        <item>@drawable/qutub_minar</item>
+        <item>@drawable/gurdwara</item>
+        <item>@drawable/lotus</item>
+        <item>@drawable/jama</item>
+        <item>@drawable/india_gate</item>
+    </array>
+
+    <string-array name="list_event_names">
+        <item>World Trade Fare</item>
+        <item>Theatre play</item>
+        <item>Republic Day Parade</item>
+        <item>Mango Festival</item>
+        <item>Qutub Festival</item>
+    </string-array>
+
+    <string-array name="list_event_addresses">
+        <item>International Trade Fare Pragati Maidan</item>
+        <item>Dhaula Kua New Delhi</item>
+        <item>Rajpath Bhavan New Delhi</item>
+        <item>Karol Bagh New Delhi</item>
+        <item>Mehrauli New Delhi</item>
+    </string-array>
+
+    <string-array name="list_event_opening_hours">
+        <item>2021. MAY 24. - 2021. JUNE 18</item>
+        <item>2021. August 02. - 2021. August 05.</item>
+        <item>2022. January 25. - 2022. January 26.</item>
+        <item>2021. May 10.</item>
+        <item>2021. November 15. - 2021. November 29.</item>
+
+    </string-array>
+
+    <array name="list_event_images">
+        <item>@drawable/trade</item>
+        <item>@drawable/theare</item>
+        <item>@drawable/republic</item>
+        <item>@drawable/mango</item>
+        <item>@drawable/qutubfest</item>
+
+    </array>
+
+    <string-array name="list_accomodation_names">
+        <item>Taj Palace, New Delhi</item>
+        <item>The Leela Palace</item>
+        <item>The Radisson Blu Plaza</item>
+        <item>Crowne Plaza, IHG Hotel</item>
+        <item>ITC Maurya</item>
+
+    </string-array>
+
+    <string-array name="list_accomodation_addresses">
+        <item>2,Sardar Patel Marg, Diplomatic Enclave, Chanakyapuri, New Delhi</item>
+        <item>Africa Ave, Diplomatic Enclave, Chanakyapuri, New Delhi</item>
+        <item>Nh 8, near Mahipalpur Extension, Block R, Mahipalpur, New Delhi</item>
+        <item>Twin District Centre, Sector 10, Rohini, New Delhi</item>
+        <item>Akhaura Block, Diplomatic Enclave, Chanakyapuri, New Delhi</item>
+    </string-array>
+
+    <string-array name="list_accomodation_opening_hours">
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: from Fri to Sun</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_accomodation_images">
+        <item>@drawable/taj</item>
+        <item>@drawable/leela</item>
+        <item>@drawable/raddisson</item>
+        <item>@drawable/crowne</item>
+        <item>@drawable/itcmayr</item>
+    </array>
+
+    <string-array name="list_restaurant_names">
+        <item>Dakshin Restaurant</item>
+        <item>Indian Lounge Restaurant</item>
+        <item>MEALIZER Restaurant</item>
+        <item>Olive Bar and Kitchen</item>
+        <item>Food Circles</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="list_restaurant_addresses">
+        <item>Saket District Centre,Sector 6, Pushp Vihar, New Delhi</item>
+        <item>City Land Area, Karol Bagh New Delhi</item>
+        <item>D-15,Shop No 1, Sector 3, Rohini, New Delhi</item>
+        <item>Mile 6,Kalka Das Marg, Seth Sarai, Mehrauli, New Delhi</item>
+        <item>The Lodhi Rd,CGO Complex, Pragati Vihar, New Delhi</item>
+        <item>.</item>
+    </string-array>
+
+    <string-array name="list_restaurant_opening_hours">
+        <item>Opening Hours: 11:00-23:00</item>
+        <item>Opening hours: 11:00-22:00</item>
+        <item>Opening hours: 11:00-22:00</item>
+        <item>Opening hours: 10:00-22:00</item>
+        <item>Opening hours: 9:00-21:00</item>
+
+    </string-array>
+
+    <array name="list_restaurant_images">
+        <item>@drawable/dakshin</item>
+        <item>@drawable/indian</item>
+        <item>@drawable/meal</item>
+        <item>@drawable/olive</item>
+        <item>@drawable/food</item>
+
+    </array>
+</resources>
