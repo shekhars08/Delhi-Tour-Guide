@@ -109,7 +109,6 @@
         <item>MEALIZER Restaurant</item>
         <item>Olive Bar and Kitchen</item>
         <item>Food Circles</item>
-        <item></item>
     </string-array>
 
     <string-array name="list_restaurant_addresses">
@@ -118,7 +117,6 @@
         <item>D-15,Shop No 1, Sector 3, Rohini, New Delhi</item>
         <item>Mile 6,Kalka Das Marg, Seth Sarai, Mehrauli, New Delhi</item>
         <item>The Lodhi Rd,CGO Complex, Pragati Vihar, New Delhi</item>
-        <item>.</item>
     </string-array>
 
     <string-array name="list_restaurant_opening_hours">
